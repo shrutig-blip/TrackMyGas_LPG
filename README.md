@@ -62,7 +62,7 @@ TrackMyGas introduces an intelligent system that ensures:
 ---
 
 ## Prototype & Presentation 💡
-- Live Prototype: https://v0.app/chat/lpg-distribution-app-kWf20eO3Rzd?b=b_0UsaSnPeqw9&ref=RP72GX
+- Live Prototype:https://v0.app/chat/lpg-distribution-app-kWf20eO3Rzd?b=b_0UsaSnPeqw9&ref=RP72GX
 - Presentation:  https://canva.link/p6kpzlsgc6pec2d 
 
 ---
