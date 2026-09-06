@@ -101,7 +101,6 @@ TrackMyGas introduces an intelligent system that ensures:
 
 ---
 
-## Team
 - Shruti Gupta  
 
 ---
